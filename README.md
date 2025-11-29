@@ -1,22 +1,23 @@
-# Analyse de croissance bactérienne
+# Analyse de croissance bactÃ©rienne
 ## Description
-Analyse de la croissance de *E. coli* en milieu liquide par mesure de densité
+Analyse de la croissance de *E. coli* en milieu liquide par mesure de densitÃ©
 optique (DO600).
-## Résultats principaux
-- **Taux de croissance (µ)** : 0.XXX h?¹
+## RÃ©sultats principaux
+- **Taux de croissance (Âµ)** : 0.XXX h?Â¹
 - **Temps de doublement** : XX minutes
 - **Phase exponentielle** : X.X - X.X heures
 ## Contenu du projet
 - `analyse_croissance.ipynb` : Notebook d'analyse complet
-- `courbe_croissance.png` : Courbe de croissance complète
+- `courbe_croissance.png` : Courbe de croissance complÃ¨te
 - `phase_exponentielle.png` : Analyse de la phase exponentielle
-- `rapport_analyse.txt` : Résumé des résultats
+- `rapport_analyse.txt` : RÃ©sumÃ© des rÃ©sultats
 ## Comment utiliser
-1. Installer les dépendances : `pip install jupyter pandas matplotlib numpy
+1. Installer les dÃ©pendances : `pip install jupyter pandas matplotlib numpy
 scipy`
 2. Lancer Jupyter : `jupyter notebook`
 3. Ouvrir `analyse_croissance.ipynb`
 ## Auteur
-[Votre Nom] - Master Biologie
+[zouyed imane] - Master Biologie
 ## Date
-[Date d'aujourd'hui]
+
+[21/11/2025]
